@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Game-2048 app
 
 
 https://github.com/user-attachments/assets/9f0a3f5a-0e9f-4c5a-948d-cade7d8954cc
